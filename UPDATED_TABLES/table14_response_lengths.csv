@@ -1,0 +1,9 @@
+Configuration,Median (words),Q1,Q3,Mean
+A0 – Generic LLM,128,96,171,133
+A1 – LLM + Standard RAG,141,108,182,146
+A2 – RAG + User Profile + Classifier Strategy,168,126,206,171
+A3 – Without Emotion Detection,162,121,199,165
+A4 – Without Personality Detection,165,124,202,168
+A5 – Without Memory (single-turn control),168,126,206,171
+A6 – Without Strategy Guidance,158,118,194,161
+A7 – Full PsyAdapt,172,131,214,175

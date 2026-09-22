@@ -1,0 +1,2 @@
+Metric,With memory (A2-M),Without memory (A5-M),Paired difference,95% bootstrap CI,Cohen's d_z,Wilcoxon p
+BERTScore-F1 (40 ESConv conversations),0.618,0.584,+0.034,"[0.001, 0.066]",0.34,0.048

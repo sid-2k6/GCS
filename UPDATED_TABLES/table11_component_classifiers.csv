@@ -1,0 +1,5 @@
+Component,Model,Task,Accuracy,Macro F1,Weighted F1,Macro ROC-AUC (OvR)
+Emotion,DistilBERT,Emotion class,0.78,0.72,0.79,0.94
+Personality,TF-IDF + linear SVM,Big Five (primary trait),0.52,0.44,0.51,0.66
+"Strategy (deployed, context-only)",TF-IDF + logistic regression,Support-strategy label,0.61,0.53,0.59,0.72
+"Strategy (legacy, label-leaking; diagnostic only)",Legacy features including the supporter response,Support-strategy label,0.87,0.83,0.86,0.95

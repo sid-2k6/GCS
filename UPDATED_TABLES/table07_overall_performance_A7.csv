@@ -1,0 +1,8 @@
+Evaluation Metric,A7 - PsyAdapt
+BERTScore-F1,0.634
+ROUGE-L F1,0.106
+Input Relevance,0.609
+Grounding Support (tau = 0.50),0.622
+Mean-max grounding similarity,0.41
+Defects per Response,0.69
+Latency (s),2.3

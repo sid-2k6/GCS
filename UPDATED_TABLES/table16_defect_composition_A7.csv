@@ -1,0 +1,8 @@
+Defect category,Mean count per response (A7)
+Unsupported medical claim,0.21
+Overstated certainty,0.14
+Prescriptive advice without disclaimer,0.12
+Referral missing (high-distress input),0.09
+Diagnostic overreach,0.08
+Inappropriate boundary,0.05
+Total defects per response,0.69
