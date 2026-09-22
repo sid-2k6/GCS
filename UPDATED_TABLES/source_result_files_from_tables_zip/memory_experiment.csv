@@ -1,0 +1,2 @@
+metric,mean_a2m,mean_a5m,diff,wilcoxon_p,ci_lo,ci_hi,d_z
+BERTScore-F1 (40 conversations),0.618,0.584,0.034,0.048,0.001,0.066,0.34

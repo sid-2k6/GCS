@@ -1,0 +1,5 @@
+config,config_name,bertscore,rougeL,relevance,grounding,defects,latency
+A0,Generic LLM,0.589,0.081,0.553,,1.41,0.81
+A1,LLM + Standard RAG,0.613,0.095,0.581,0.482,0.98,1.44
+A2,RAG + Profile + Classifier Strategy,0.629,0.104,0.603,0.615,0.74,2.21
+A7,Full PsyAdapt (Adaptive Strategy),0.634,0.106,0.609,0.622,0.69,2.3

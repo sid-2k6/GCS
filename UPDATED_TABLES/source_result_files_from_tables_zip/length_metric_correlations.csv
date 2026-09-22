@@ -1,0 +1,5 @@
+metric,spearman_rho,p
+BERTScore-F1,0.41,0.0001
+ROUGE-L F1,0.29,0.003
+Input relevance,0.18,0.031
+Grounding support,0.56,1e-06

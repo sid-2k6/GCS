@@ -1,0 +1,7 @@
+config,config_name,bertscore,rougeL,relevance,grounding,defects,latency
+A2,RAG + Profile + Classifier Strategy,0.629,0.104,0.603,0.615,0.74,2.21
+A3,A2 without Emotion,0.621,0.099,0.592,0.598,0.86,2.12
+A4,A2 without Personality,0.626,0.102,0.601,0.608,0.76,2.19
+A5,A2 without Memory (single-turn),0.629,0.104,0.603,0.614,0.74,2.2
+A6,A2 without Strategy Guidance,0.617,0.097,0.593,0.604,0.89,1.87
+A7,Full PsyAdapt (Adaptive Strategy),0.634,0.106,0.609,0.622,0.69,2.3
