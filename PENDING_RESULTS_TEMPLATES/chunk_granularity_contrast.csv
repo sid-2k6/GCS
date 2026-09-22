@@ -1,0 +1,1 @@
+metric,n_pairs,mean_fine,mean_coarse,mean_diff_fine_minus_coarse,ci95_low,ci95_high,cohens_dz,p_value,p_holm

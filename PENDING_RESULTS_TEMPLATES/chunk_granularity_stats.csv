@@ -1,0 +1,3 @@
+granularity,n_chunks,median_chars,p90_chars,total_chars,pct_within_encoder_window_1000_chars
+coarse,,,,,
+fine,,,,,

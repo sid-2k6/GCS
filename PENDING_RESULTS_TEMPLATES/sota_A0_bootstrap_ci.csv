@@ -1,0 +1,2 @@
+arm,metric,n,mean,ci95_low,ci95_high
+A0_Qwen2.5-3B (bare),bertscore_f1,300,0.589,,

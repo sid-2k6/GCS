@@ -1,0 +1,8 @@
+paper_label_table16,count_per_response_verified,produced_by (rule_screen | llm_judge | both),pipeline_field_name,status
+Unsupported medical claim,0.21,,,TO CONFIRM
+Overstated certainty,0.14,,,TO CONFIRM
+Prescriptive advice without disclaimer,0.12,,,TO CONFIRM
+Referral missing (high-distress input),0.09,,,TO CONFIRM
+Diagnostic overreach,0.08,,,TO CONFIRM
+Inappropriate boundary,0.05,,,TO CONFIRM
+Total defects per response,0.69,,,TO CONFIRM

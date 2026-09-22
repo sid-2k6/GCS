@@ -1,0 +1,4 @@
+value_in_table13,supplied_value,notebook_cell_that_computes_it,status
+mean BERTScore-F1 with memory (A2-M),0.618,,TO CONFIRM
+mean BERTScore-F1 without memory (A5-M),0.584,,TO CONFIRM
+paired difference / CI / d_z / Wilcoxon p,"0.034 / [0.001, 0.066] / 0.34 / 0.048",,TO CONFIRM

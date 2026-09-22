@@ -1,0 +1,1 @@
+metric,contrast,n_pairs,mean_a,mean_b,mean_diff,ci95_low,ci95_high,cohens_dz,rank_biserial,p_value,p_holm,test,identical_output_rate
